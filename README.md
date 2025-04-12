@@ -1,4 +1,7 @@
-## Hi there 👋
+<h1 align="center">
+  Hi, I'm <strong>Nachanoch Panyachai</strong> 👨‍💻
+</h1>
+
 
 <!--
 **Novitnit/Novitnit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
